@@ -17,7 +17,7 @@
 | [14](#team-14) | def | 연구 | Agent AI 추론을 위한 메모리 효율 최적화 |
 | [15](#team-15) | 햄부기 | 연구 | Split-Computing Vision Inference System |
 | [16](#team-16) | 퓨터 | 산학|  CharacterAI |
-| [17](#team-17) | SPY |  |  |
+| [17](#team-17) | SPY | 산학 | AI 기반 음악 추천 어플리케이션 |
 | [18](#team-18) | 디바트(deep-art) |  |  |
 | [19](#team-19) | Logue |  |  |
 
@@ -373,10 +373,10 @@
 
 | 항목 | 내용 |
 |------|------|
-| 프로젝트명 |  |
-| 트랙 |  |
+| 프로젝트명 | AI 기반 음악 추천 어플리케이션 |
+| 트랙 | 산학 |
 | 팀명 | SPY |
-| 팀구성 |  |
+| 팀구성 | 신희조, 윤수연, 박은수 |
 | 팀지도교수 |  |
 | 무엇을 만들고자 하는가 | 기분이나 감정이나 취향을 넣으면 음악을 추천해주는 어플 |
 | 고객 (누구를 위해) | 음악을 좋아하는 사람 |
@@ -384,8 +384,8 @@
 | 사용 기술 | Spotify Web API (곡 정보)<br>OpenAI API (추천 이유 생성)<br>YouTube Data API (뮤직 영상) |
 | 기대 효과 | 듣지 못했던 음악을 들을 수 있음, 듣고 싶은 음악을 찾아다니는 번거로움을 해소할 수 있음 |
 | GitHub Repo | [https://github.com/SPY-capstone-2026/SPY-capstoneREPO](https://github.com/SPY-capstone-2026/SPY-capstoneREPO) |
-| Team Ground Rule |  |
-| 최종수정일 |  |
+| Team Ground Rule | https://github.com/SPY-capstone-2026/SPY-capstoneREPO/blob/main/Team_Ground_Rule.md |
+| 최종수정일 | 2026.03.11 |
 
 [↑ 목록으로](#2026-spring-전체-프로젝트-리스트)
 
